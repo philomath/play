@@ -1,6 +1,6 @@
 /* output precentages of file types under the specified dir, pretty primitive */
 
-#define _GNU_SOURCE
+#define _XOPEN_SOURCE 500
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
