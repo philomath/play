@@ -1,4 +1,4 @@
-/* simple gematria calculator */
+/* simple hebrew gematria calculator */
 
 #include <stdio.h>
 #include <stdbool.h>
